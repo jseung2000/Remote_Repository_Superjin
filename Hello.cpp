@@ -18,6 +18,7 @@ using namespace std;
 
 
 int main() {
+	cout << "!!!incoding!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Header!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Title!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
@@ -29,6 +30,8 @@ int main() {
 	cout << "!!!Hello master!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello test1!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello conflict!!!" << endl; // prints !!!Hello World!!!
-	cout << "!!!Hello restore!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Hello conflict prevent!!!" << endl; // prints !!!Hello World!!!
+    cout << "!!!Hello restore!!!" << endl; // prints !!!Hello World!!!
+
 	return 0;
 }
