@@ -22,6 +22,3 @@ int main() {
 	cout << "!!!Hello Jin!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
-
-
-
