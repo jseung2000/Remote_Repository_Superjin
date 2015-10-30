@@ -26,6 +26,10 @@ int main() {
 	cout << "!!!Hello odridray!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello odridray2!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello odridray3!!!" << endl; // prints !!!Hello World!!!
+<<<<<<< HEAD
 	cout << "!!!Hello master!!!" << endl; // prints !!!Hello World!!!
+=======
+	cout << "!!!Hello test1!!!" << endl; // prints !!!Hello World!!!
+>>>>>>> 실험2
 	return 0;
 }
