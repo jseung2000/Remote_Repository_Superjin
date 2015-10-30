@@ -29,6 +29,7 @@ int main() {
 	cout << "!!!Hello master!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello test1!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Hello conflict!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Hello conflict prevent!!!" << endl; // prints !!!Hello World!!!
 
 	return 0;
 }
