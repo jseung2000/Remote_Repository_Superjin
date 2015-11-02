@@ -35,5 +35,6 @@ int main() {
     cout << "!!!Hello push!!!" << endl; // prints !!!Hello World!!!
     cout << "!!!Hello pull!!!" << endl; // prints !!!Hello World!!!
     cout << "!!!Hello push git!!!" << endl; // prints !!!Hello World!!!
+    cout << "!!!Hello pull superjin!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
