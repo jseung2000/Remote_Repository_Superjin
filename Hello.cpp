@@ -18,6 +18,7 @@ using namespace std;
 
 
 int main() {
+	cout << "!!!sync git!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!incoding!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Header!!!" << endl; // prints !!!Hello World!!!
 	cout << "!!!Title!!!" << endl; // prints !!!Hello World!!!
