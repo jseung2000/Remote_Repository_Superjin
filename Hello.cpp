@@ -33,6 +33,7 @@ int main() {
 	cout << "!!!Hello conflict prevent!!!" << endl; // prints !!!Hello World!!!
     cout << "!!!Hello restore!!!" << endl; // prints !!!Hello World!!!
     cout << "!!!Hello push!!!" << endl; // prints !!!Hello World!!!
+    cout << "!!!Hello pull!!!" << endl; // prints !!!Hello World!!!
 
 	return 0;
 }
